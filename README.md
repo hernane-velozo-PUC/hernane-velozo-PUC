@@ -2,10 +2,10 @@
 
 ### Graduando em Engenharia de Computação pela Pontifícia Universidade Católica de Minas Gerais
 
-* Assistente Administrativo
-* Microsoft Excel - PowerBI
-* Adobe Photoshop / Premiere Pro
-* Estudos do Momento: Desenvolvimento WEB - SQL Server - Robotic Process Automation - Python
+
+* Tenho domínio em Microsoft Excel - Adobe Photoshop
+* Sei utilizar bem Premiere Pro e PowerBI
+* Estudos do Momento: Desenvolvimento WEB - SQL Server - Node.Js
 ### Este repositório tem como finalidade o uso no âmbito acadêmico
 
 <div align="left" <a href="https://github.com/HernaneVelozo">

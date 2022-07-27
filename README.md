@@ -24,4 +24,4 @@
  </div> <br>
 Sou apaixonado por tecnologia e acredito que a partir dela podemos contribuir com o desenvolvimento humano.
 
-![Snake animation](https://github.com/hernanevelozo/hernanevelozo/blob/output/github-contribution-grid-snake.svg)
+

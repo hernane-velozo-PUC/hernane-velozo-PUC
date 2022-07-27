@@ -8,8 +8,8 @@
 * Estudos do Momento: Desenvolvimento WEB - SQL Server - Node.Js
 ### Este repositório tem como finalidade o uso no âmbito acadêmico
 
-<div align="left" <a href="https://github.com/HernaneVelozo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hernane-velozo-PUC&amp;show_icons=true&amp;theme=chartreuse-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+<div align="left" <a href="https://github.com/hernanevelozo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hernanevelozo&amp;show_icons=true&amp;theme=chartreuse-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
 </a></div></div>
 
 <div>
